@@ -20,6 +20,7 @@ I'm a Computer Science and Engineering undergraduate at the University of Moratu
 ## 🚀 Projects
 - **Flutter App**: Developed a mobile application using Flutter framework.
 - **React Web App**: Currently working on a web application with React frontend and Node.js backend.
+- **Java Game** : Helped in creating a simple game called MysticMayhem.
 
 ## 🌱 I'm currently learning
 - Advanced React and Node.js concepts
@@ -35,7 +36,7 @@ I'm a Computer Science and Engineering undergraduate at the University of Moratu
 ![Sansika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Platinum-Saber&show_icons=true&theme=radical)
 
 ## 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platinum-Saber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platinum-Saber&layout=compact&theme=radical)
 
 ---
 
