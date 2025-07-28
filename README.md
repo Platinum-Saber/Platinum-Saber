@@ -8,29 +8,54 @@ I'm a Computer Science and Engineering undergraduate at the University of Moratu
 
 ## 🔧 Technologies & Tools
 
-### 👨‍💻 Programming Languages
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30"/>
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="30"/>
+### Programming Languages
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></td>
+  </tr>
+</table>
 
-### 🌐 Web & App Development
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30"/>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+### Web & App Development
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+  </tr>
+</table>
 
-### 🤖 Robotics & Embedded Systems
-<img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/gazebo-2D3F50.svg?style=for-the-badge&logo=gazebo&logoColor=white" height="30"/>
+### Robotics & Embedded Systems
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/ROS2-Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Gazebo-2D3F50?style=for-the-badge&logo=gazebo&logoColor=white"/></td>
+  </tr>
+</table>
 
-## 🚀 Projects
+
+## Projects
 
 - **Nutri Mithu (Flutter App)**  
   Redesigned a cross-platform mobile application with animated UI and Firebase Firestore integration for user data and nutrition tracking.
@@ -53,24 +78,26 @@ I'm a Computer Science and Engineering undergraduate at the University of Moratu
 - **Java Game – MysticMayhem**  
   Contributed to developing a simple 2D game in Java featuring player movement, basic combat, and collectible mechanics.
 
-- **Nano Processor (VHDL)**
-  Contributed to develop a nanoprocessor using VHDL and Vivado.
+- **Nano Processor (VHDL)** </br>
+ Contributed to develop a nanoprocessor with a simple instruction set using VHDL and Vivado.
 
-## 🌱 I'm currently learning
+## I'm currently learning
 - Advanced ROS concepts
 - Docker environment management
 - IoT practical implementations
 
-## 📫 How to reach me
+## How to reach me
 - GitHub: [@Platinum-Saber](https://github.com/Platinum-Saber)
 - LinkedIn: [@Sansika-Waduge](https://www.linkedin.com/in/sansika-waduge-1a8092306)
 - Email: [sansikawaduge@gmail.com](mailto:sansikawaduge@gmail.com)
 
-## 📊 GitHub Stats
-![Sansika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Platinum-Saber&show_icons=true&theme=radical)
+## GitHub Stats
+![Sansika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Platinum-Saber&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false)
 
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platinum-Saber&layout=compact&theme=radical)
+
+## Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Platinum-Saber&layout=donut&langs_count=8&hide=HTML,Shell&theme=dracula&show_icons=true)](...)
+
 
 ---
 
